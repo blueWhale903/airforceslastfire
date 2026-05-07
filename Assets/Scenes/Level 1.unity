@@ -770,7 +770,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4f9d5b62d7abbe42884867315558ea7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Boss
-  health: 180
+  health: 3
   bossHealthBarUI: {fileID: 1001078225}
   healthBarSlider: {fileID: 1001078227}
   moveSpeed: 0.8

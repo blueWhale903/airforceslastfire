@@ -1,6 +1,7 @@
 using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Boss : Enemy
@@ -143,7 +144,6 @@ public class Boss : Enemy
     {
         Vector3 currentPos = transform.position;
         moveSpeed = health > healthBarSlider.maxValue / 2.0f ? Random.Range(1.0f, 5.0f) : Random.Range(3.0f, 8.0f);
-        Debug.Log(moveSpeed + "  " + health + "  " + healthBarSlider.maxValue);
         float speed = moveSpeed * Time.deltaTime;
 
         switch (currentState)
@@ -215,8 +215,15 @@ public class Boss : Enemy
         if (health <= 0)
         {
             active = false;
+            StartCoroutine(Win());
         }
 
         healthBarSlider.value = health;
+    }
+
+    private IEnumerator Win()
+    {
+        yield return new WaitForSeconds(5);
+        SceneManager.LoadScene("Win");
     }
 }

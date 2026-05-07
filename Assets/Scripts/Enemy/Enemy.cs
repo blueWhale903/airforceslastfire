@@ -54,7 +54,7 @@ public class Enemy : MonoBehaviour, IDamagable
         AudioManager.Instance.PlayEnemyExplodeSFX();
         if (explode_animation == "boss_explode")
         {
-            Destroy(gameObject, 1.8f);
+            //Destroy(gameObject, 1.8f);
         } else
         {
             Destroy(gameObject, 0.3f);
