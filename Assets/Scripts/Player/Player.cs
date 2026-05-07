@@ -31,6 +31,7 @@ public class Player : MonoBehaviour
     private void TakeDamage(int damage)
     {
         health -= damage;
+        AudioManager.Instance.PlayPlayerHurtSFX(4.5f);
     }
 
     private void ShowHearts()

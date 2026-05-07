@@ -47,6 +47,8 @@ public class PlayerShooting : MonoBehaviour
             PlayerBullet playerBullet = bullet.GetComponent<PlayerBullet>();
             if (playerBullet) playerBullet.SetDirection(shootDirection);
 
+            AudioManager.Instance.PlayPlayerShootSFX(0.15f);
+
             yield return new WaitForSeconds(shootRate);
         }
     }

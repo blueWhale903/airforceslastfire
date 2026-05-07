@@ -22,6 +22,7 @@ public class Enemy : MonoBehaviour, IDamagable
     public virtual void TakeDamage(int damage)
     {
         health -= damage;
+        AudioManager.Instance.PlayPlayerHurtSFX(1f);
     }
 
     protected void OnTriggerEnter2D(Collider2D collision)
@@ -50,6 +51,7 @@ public class Enemy : MonoBehaviour, IDamagable
         GetComponent<Collider2D>().enabled = false;
         _animator.Play(explode_animation);
         float animLength = _animator.GetCurrentAnimatorStateInfo(0).length;
+        AudioManager.Instance.PlayEnemyExplodeSFX();
         if (explode_animation == "boss_explode")
         {
             Destroy(gameObject, 1.8f);

@@ -102,6 +102,7 @@ public class EnemySpawner : MonoBehaviour
         Boss boss = bossObj.GetComponent<Boss>();
 
         bossWarningObj.SetActive(true);
+        AudioManager.Instance.PlayBossWarningSFX(0.8f);
         StartCoroutine(boss.Spawn());
     }
 }
