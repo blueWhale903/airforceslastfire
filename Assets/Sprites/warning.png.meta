@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 6c0233e57ebba914da3aa6bb1824424c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3119020103343890530
+    second: warning_0
+  - first:
+      213: 622636920190054248
+    second: warning_1
+  - first:
+      213: 3432878592798633325
+    second: warning_2
+  - first:
+      213: -1824632466962615316
+    second: warning_3
+  - first:
+      213: -5515967180038163862
+    second: warning_4
+  - first:
+      213: 1869479653135345301
+    second: warning_5
+  - first:
+      213: -4499124863661863054
+    second: warning_6
+  - first:
+      213: -2594366457504407279
+    second: warning_7
+  - first:
+      213: 947258760174490767
+    second: warning_8
+  - first:
+      213: -1583698089342560806
+    second: warning_9
+  - first:
+      213: -7021187579968135089
+    second: warning_10
+  - first:
+      213: -3032390427157173097
+    second: warning_11
+  - first:
+      213: 130559385832831413
+    second: warning_12
+  - first:
+      213: 6353178922784448036
+    second: warning_13
+  - first:
+      213: 7499911366419163164
+    second: warning_14
+  - first:
+      213: -4590154269225413704
+    second: warning_15
+  - first:
+      213: -534310071813966202
+    second: warning_16
+  - first:
+      213: -724812530827848063
+    second: warning_17
+  - first:
+      213: -4337792323240420168
+    second: warning_18
+  - first:
+      213: -7458169496181344913
+    second: warning_19
+  - first:
+      213: 6261046447937494179
+    second: warning_20
+  - first:
+      213: -9054713472003493228
+    second: warning_21
+  - first:
+      213: -5288614972654457973
+    second: warning_22
+  - first:
+      213: -7776860498867320481
+    second: warning_23
+  - first:
+      213: -8310621582545820422
+    second: warning_24
+  - first:
+      213: -2696539461606789601
+    second: warning_25
+  - first:
+      213: -1393958744507599900
+    second: warning_26
+  - first:
+      213: 8338403162187080229
+    second: warning_27
+  - first:
+      213: -1318675705463367128
+    second: warning_28
+  - first:
+      213: 4772187076185614918
+    second: warning_29
+  - first:
+      213: 7777888895361497786
+    second: warning_30
+  - first:
+      213: -8540162174280146338
+    second: warning_31
+  - first:
+      213: 4336021260410379584
+    second: warning_32
+  - first:
+      213: 5492599609692092394
+    second: warning_33
+  - first:
+      213: 2164062819721023287
+    second: warning_34
+  - first:
+      213: 4176331157843677417
+    second: warning_35
+  - first:
+      213: 507372262813914683
+    second: warning_36
+  - first:
+      213: -351981223784719377
+    second: warning_37
+  - first:
+      213: 3157597938914772783
+    second: warning_38
+  - first:
+      213: 6648386869734187657
+    second: warning_39
+  - first:
+      213: 6476147306305360485
+    second: warning_40
+  - first:
+      213: -9142353751787926136
+    second: warning_41
+  - first:
+      213: -599265452245853675
+    second: warning_42
+  - first:
+      213: 5308835174748927768
+    second: warning_43
+  - first:
+      213: -873766332993254987
+    second: warning_44
+  - first:
+      213: -7367905479567855482
+    second: warning_45
+  - first:
+      213: -7234946731080747123
+    second: warning_46
+  - first:
+      213: 1586138799388154504
+    second: warning_47
+  - first:
+      213: -1372512612512590867
+    second: warning_48
+  - first:
+      213: -3088290174062590346
+    second: warning_49
+  - first:
+      213: 8444221339061151690
+    second: warning_50
+  - first:
+      213: -7376281640687143096
+    second: warning_51
+  - first:
+      213: 8460000731951911118
+    second: warning_52
+  - first:
+      213: 5263146600637157564
+    second: warning_53
+  - first:
+      213: -450567361500466550
+    second: warning_54
+  - first:
+      213: 217474033575947407
+    second: warning_55
+  - first:
+      213: -3468674740239122363
+    second: warning_56
+  - first:
+      213: -8388897353445470113
+    second: warning_57
+  - first:
+      213: 3692535625458249454
+    second: warning_58
+  - first:
+      213: 781315502420364118
+    second: warning_59
+  - first:
+      213: -1849807300102946138
+    second: warning_60
+  - first:
+      213: 7768125419303082702
+    second: warning_61
+  - first:
+      213: 279193088031417135
+    second: warning_62
+  - first:
+      213: -3469417136458080743
+    second: warning_63
+  - first:
+      213: -7469490360732772296
+    second: warning_64
+  - first:
+      213: 6387213020698631130
+    second: warning_65
+  - first:
+      213: 8860789035616618368
+    second: warning_66
+  - first:
+      213: 298116562579379192
+    second: warning_67
+  - first:
+      213: 247499528225269332
+    second: warning_68
+  - first:
+      213: -2123019226829549042
+    second: warning_69
+  - first:
+      213: 8079690049638191467
+    second: warning_70
+  - first:
+      213: 2384780673861642483
+    second: warning_71
+  - first:
+      213: 8037988811581734175
+    second: warning_72
+  - first:
+      213: -5115889502403150825
+    second: warning_73
+  - first:
+      213: -5161180917040200534
+    second: warning_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: warning_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1015
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2606d1b324cf84b20800000000000000
+      internalID: 3119020103343890530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1017
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fa8f3eafc04a800800000000000000
+      internalID: 622636920190054248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1018
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d2ec854e804af20800000000000000
+      internalID: 3432878592798633325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1018
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce37c09407a9da6e0800000000000000
+      internalID: -1824632466962615316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1018
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62bc1913195373b0800000000000000
+      internalID: -5515967180038163862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1018
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596e3ffe6d9b1f910800000000000000
+      internalID: 1869479653135345301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1022
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f8e4d16c5ef81c0800000000000000
+      internalID: -4499124863661863054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1015
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111e243d375fefbd0800000000000000
+      internalID: -2594366457504407279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1020
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84d396d2d6552d00800000000000000
+      internalID: 947258760174490767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1015
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad595418af2950ae0800000000000000
+      internalID: -1583698089342560806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1017
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f406d9a881bbf8e90800000000000000
+      internalID: -7021187579968135089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1018
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c600909f8cae5d0800000000000000
+      internalID: -3032390427157173097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1018
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9b8a6d117dfc100800000000000000
+      internalID: 130559385832831413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_13
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1018
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ed017d1960b2850800000000000000
+      internalID: 6353178922784448036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_14
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1018
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18245ac6a9051860800000000000000
+      internalID: 7499911366419163164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_15
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1022
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b39396030f7c40c0800000000000000
+      internalID: -4590154269225413704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_16
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1015
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6867d9112dfb598f0800000000000000
+      internalID: -534310071813966202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_17
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1020
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186114be7d2f0f5f0800000000000000
+      internalID: -724812530827848063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_18
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1015
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc96d75dd01dc3c0800000000000000
+      internalID: -4337792323240420168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_19
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1017
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65f479bb524f7890800000000000000
+      internalID: -7458169496181344913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_20
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1018
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac198b6294b3e650800000000000000
+      internalID: 6261046447937494179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_21
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1018
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492b9463212375280800000000000000
+      internalID: -9054713472003493228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1018
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6e11e3b01b96b0800000000000000
+      internalID: -5288614972654457973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_23
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1018
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f590f31749a031490800000000000000
+      internalID: -7776860498867320481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_24
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1022
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af469a5c3bdbaac80800000000000000
+      internalID: -8310621582545820422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_25
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1015
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eaa1485a7f39ad0800000000000000
+      internalID: -2696539461606789601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_26
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1020
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3331a48e9a7ace0800000000000000
+      internalID: -1393958744507599900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_27
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1015
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522a72c4f75f7b370800000000000000
+      internalID: 8338403162187080229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_28
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1017
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a1be9be6f13bde0800000000000000
+      internalID: -1318675705463367128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_29
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1018
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ae0c59cd63a3240800000000000000
+      internalID: 4772187076185614918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_30
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1018
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3a76cdbc90fb60800000000000000
+      internalID: 7777888895361497786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_31
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1018
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52edcd00cf3b7980800000000000000
+      internalID: -8540162174280146338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_32
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1018
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d5d45fc54ac2c30800000000000000
+      internalID: 4336021260410379584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_33
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1022
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae775257e32a93c40800000000000000
+      internalID: 5492599609692092394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_34
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1015
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f0a193bab480e10800000000000000
+      internalID: 2164062819721023287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_35
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1020
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e01ba79f0f45f930800000000000000
+      internalID: 4176331157843677417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_36
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1015
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d8e5826c8a0700800000000000000
+      internalID: 507372262813914683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_37
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1018
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb54bc11f28d1bf0800000000000000
+      internalID: -351981223784719377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f274584889a02db20800000000000000
+      internalID: 3157597938914772783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a0e322a0d34c50800000000000000
+      internalID: 6648386869734187657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5621f69b9a5efd950800000000000000
+      internalID: 6476147306305360485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d88b573b5df1180800000000000000
+      internalID: -9142353751787926136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ad8b80f3bfea7f0800000000000000
+      internalID: -599265452245853675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817320ac675cca940800000000000000
+      internalID: 5308835174748927768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9cd394622cfd3f0800000000000000
+      internalID: -873766332993254987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_45
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68034bfc001ffb990800000000000000
+      internalID: -7367905479567855482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_46
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87fe0dc74e489b90800000000000000
+      internalID: -7234946731080747123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_47
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88adef595d8130610800000000000000
+      internalID: 1586138799388154504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_48
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de391710d0bd3fce0800000000000000
+      internalID: -1372512612512590867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_49
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 5
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6768babf2703425d0800000000000000
+      internalID: -3088290174062590346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_50
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac763878196ef2570800000000000000
+      internalID: 8444221339061151690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_51
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 3
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8477b93ddee22a990800000000000000
+      internalID: -7376281640687143096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_52
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 0
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0d98bb7d5f76570800000000000000
+      internalID: 8460000731951911118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_53
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb058cba2f37a0940800000000000000
+      internalID: 5263146600637157564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_54
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8231663f534fb9f0800000000000000
+      internalID: -450567361500466550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_55
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6a273b7f940300800000000000000
+      internalID: 217474033575947407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_56
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5404daa93baccdfc0800000000000000
+      internalID: -3468674740239122363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_57
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f501ba6ad46a49b80800000000000000
+      internalID: -8388897353445470113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_58
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 5
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeee9e366958e3330800000000000000
+      internalID: 3692535625458249454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_59
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 0
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b85435f4ac7da00800000000000000
+      internalID: 781315502420364118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_60
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2807eaf0a2456e0800000000000000
+      internalID: -1849807300102946138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_61
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 0
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca1e3c59ecedcb60800000000000000
+      internalID: 7768125419303082702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_62
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f236bd362a4efd300800000000000000
+      internalID: 279193088031417135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_63
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e53c30f772adfc0800000000000000
+      internalID: -3469417136458080743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_64
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838915b871a075890800000000000000
+      internalID: -7469490360732772296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_65
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbdd73c660f3a850800000000000000
+      internalID: 6387213020698631130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_66
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087ca917ea8d7fa70800000000000000
+      internalID: 8860789035616618368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_67
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 5
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f354362f6f132400800000000000000
+      internalID: 298116562579379192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_68
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 0
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456a1f5728b4f6300800000000000000
+      internalID: 247499528225269332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_69
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02108de2458982e0800000000000000
+      internalID: -2123019226829549042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_70
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 0
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6151f7ca43d02070800000000000000
+      internalID: 8079690049638191467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_71
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f86db44361781120800000000000000
+      internalID: 2384780673861642483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_72
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1db4eeac3cac8f60800000000000000
+      internalID: 8037988811581734175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_73
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c3c1b4a95b009b0800000000000000
+      internalID: -5115889502403150825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warning_74
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa44b421d4dcf58b0800000000000000
+      internalID: -5161180917040200534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      warning_0: 3119020103343890530
+      warning_1: 622636920190054248
+      warning_10: -7021187579968135089
+      warning_11: -3032390427157173097
+      warning_12: 130559385832831413
+      warning_13: 6353178922784448036
+      warning_14: 7499911366419163164
+      warning_15: -4590154269225413704
+      warning_16: -534310071813966202
+      warning_17: -724812530827848063
+      warning_18: -4337792323240420168
+      warning_19: -7458169496181344913
+      warning_2: 3432878592798633325
+      warning_20: 6261046447937494179
+      warning_21: -9054713472003493228
+      warning_22: -5288614972654457973
+      warning_23: -7776860498867320481
+      warning_24: -8310621582545820422
+      warning_25: -2696539461606789601
+      warning_26: -1393958744507599900
+      warning_27: 8338403162187080229
+      warning_28: -1318675705463367128
+      warning_29: 4772187076185614918
+      warning_3: -1824632466962615316
+      warning_30: 7777888895361497786
+      warning_31: -8540162174280146338
+      warning_32: 4336021260410379584
+      warning_33: 5492599609692092394
+      warning_34: 2164062819721023287
+      warning_35: 4176331157843677417
+      warning_36: 507372262813914683
+      warning_37: -351981223784719377
+      warning_38: 3157597938914772783
+      warning_39: 6648386869734187657
+      warning_4: -5515967180038163862
+      warning_40: 6476147306305360485
+      warning_41: -9142353751787926136
+      warning_42: -599265452245853675
+      warning_43: 5308835174748927768
+      warning_44: -873766332993254987
+      warning_45: -7367905479567855482
+      warning_46: -7234946731080747123
+      warning_47: 1586138799388154504
+      warning_48: -1372512612512590867
+      warning_49: -3088290174062590346
+      warning_5: 1869479653135345301
+      warning_50: 8444221339061151690
+      warning_51: -7376281640687143096
+      warning_52: 8460000731951911118
+      warning_53: 5263146600637157564
+      warning_54: -450567361500466550
+      warning_55: 217474033575947407
+      warning_56: -3468674740239122363
+      warning_57: -8388897353445470113
+      warning_58: 3692535625458249454
+      warning_59: 781315502420364118
+      warning_6: -4499124863661863054
+      warning_60: -1849807300102946138
+      warning_61: 7768125419303082702
+      warning_62: 279193088031417135
+      warning_63: -3469417136458080743
+      warning_64: -7469490360732772296
+      warning_65: 6387213020698631130
+      warning_66: 8860789035616618368
+      warning_67: 298116562579379192
+      warning_68: 247499528225269332
+      warning_69: -2123019226829549042
+      warning_7: -2594366457504407279
+      warning_70: 8079690049638191467
+      warning_71: 2384780673861642483
+      warning_72: 8037988811581734175
+      warning_73: -5115889502403150825
+      warning_74: -5161180917040200534
+      warning_8: 947258760174490767
+      warning_9: -1583698089342560806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
