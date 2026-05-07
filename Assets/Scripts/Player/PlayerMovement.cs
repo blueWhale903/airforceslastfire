@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D _rb2d;
     private Camera _camera;
     private bool isFacingRight = true;
+    private SpriteRenderer _sprite;
 
     public InputAction inputAction;
     public InputActionReference move;
@@ -18,13 +19,10 @@ public class PlayerMovement : MonoBehaviour
     void Awake()
     {
         _rb2d = GetComponent<Rigidbody2D>();
+        _sprite = GetComponent<SpriteRenderer>();
         _camera = Camera.main;
     }
-    private void OnEnable()
-    {
-
-    }
-    // Update is called once per frame
+    
     void Update()
     {
         _movementDirection = move.action.ReadValue<Vector2>();

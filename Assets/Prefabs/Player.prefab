@@ -310,6 +310,7 @@ MonoBehaviour:
   - {fileID: 2327187838823130874}
   - {fileID: 6670106958386339241}
   - {fileID: 5358259939885891494}
+  SceneTransition: {fileID: 0}
 --- !u!95 &5480117650408870101
 Animator:
   serializedVersion: 7

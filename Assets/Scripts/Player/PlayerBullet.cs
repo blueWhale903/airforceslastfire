@@ -29,6 +29,7 @@ public class PlayerBullet : MonoBehaviour, IDamager
     {
         this.direction = direction;
         _rb2d.linearVelocity = new Vector2(speed, 0) * direction;
+        GetComponent<SpriteRenderer>().flipX = direction.x > 0 ? false : true;
     }
 
     protected void OnTriggerEnter2D(Collider2D collision)
