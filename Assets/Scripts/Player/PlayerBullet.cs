@@ -3,49 +3,83 @@ using UnityEngine;
 
 public class PlayerBullet : MonoBehaviour, IDamager
 {
-    private Rigidbody2D _rb2d;
-    private Vector2 direction { get; set; }
-
-    [SerializeField] private float speed = 20;
-    private float lifeTime = 1;
-
+    [SerializeField] private float speed = 20f;
     [SerializeField] private int damage = 1;
     public int Damage => damage;
 
-    Animator _animator;
+    private Vector2 direction = Vector2.right;
+    private PlayerShooting pool;
+    private Animator _animator;
+    private SpriteRenderer _spriteRenderer;
+    private bool isExploding = false;
 
     void Awake()
     {
         _animator = GetComponent<Animator>();
-        _rb2d = GetComponent<Rigidbody2D>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    private void Start()
+    public void SetDirection(Vector2 dir)
     {
-        Destroy(gameObject, lifeTime);
+        direction = dir.normalized;
+        if (_spriteRenderer != null)
+            _spriteRenderer.flipX = direction.x < 0;
+        isExploding = false;
     }
 
-    public void SetDirection(Vector2 direction)
+    public void SetPool(PlayerShooting shooter)
     {
-        this.direction = direction;
-        _rb2d.linearVelocity = new Vector2(speed, 0) * direction;
-        GetComponent<SpriteRenderer>().flipX = direction.x > 0 ? false : true;
+        pool = shooter;
     }
 
-    protected void OnTriggerEnter2D(Collider2D collision)
+    void Update()
     {
-        GameObject GO = collision.gameObject;
+        if (!isExploding)
+            transform.Translate(direction * speed * Time.deltaTime, Space.World);
+    }
 
-        if (GO.tag == "Enemy")
+    void OnBecameInvisible()
+    {
+        if (!isExploding && pool != null)
+            pool.ReturnBulletToPool(gameObject);
+    }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (isExploding) return;
+
+        if (collision.CompareTag("Enemy"))
         {
+            isExploding = true;
             float randomScale = Random.Range(0.5f, 1f);
             Vector2 offset = new Vector2(Random.Range(-0.2f, 0.2f), Random.Range(-0.2f, 0.2f));
             transform.Translate(offset);
             transform.localScale = new Vector3(randomScale, randomScale, 1f);
-            _animator.Play("player_bullet_explode");
-            float animLength = _animator.GetCurrentAnimatorStateInfo(0).length;
-            _rb2d.linearVelocity = Vector2.zero;
-            Destroy(gameObject, animLength);
+
+            if (_animator != null)
+            {
+                _animator.Play("player_bullet_explode");
+                StartCoroutine(ReturnToPoolAfterAnimation());
+            }
+            else
+            {
+                ReturnToPool();
+            }
         }
+    }
+
+    private IEnumerator ReturnToPoolAfterAnimation()
+    {
+        float animLength = 0.2f;
+        if (_animator != null)
+            animLength = _animator.GetCurrentAnimatorStateInfo(0).length;
+        yield return new WaitForSeconds(animLength);
+        ReturnToPool();
+    }
+
+    private void ReturnToPool()
+    {
+        if (pool != null)
+            pool.ReturnBulletToPool(gameObject);
     }
 }
