@@ -19,13 +19,11 @@ public class EnemySpawner : MonoBehaviour
 
     void Start()
     {
-        SpawnBoss();
         waves = waves.OrderBy(w => w.spawnTime).ToList();
     }
 
     void Update()
     {
-        return;
         if (isLocked) return;
 
         timer += Time.deltaTime;

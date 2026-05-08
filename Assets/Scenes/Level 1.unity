@@ -770,7 +770,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4f9d5b62d7abbe42884867315558ea7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Boss
-  health: 3
+  health: 180
   bossHealthBarUI: {fileID: 1001078225}
   healthBarSlider: {fileID: 1001078227}
   moveSpeed: 0.8
@@ -1046,7 +1046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -2742,6 +2742,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5639221521080190787, guid: f99ff722a3bbc5f4582301beaf7623f2, type: 3}
       propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8062711385040507096, guid: f99ff722a3bbc5f4582301beaf7623f2, type: 3}
+      propertyPath: m_UiScaleMode
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
